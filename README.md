@@ -221,7 +221,7 @@ TYPE: Dynamic Form Engine
 │   → Long-term Backend Consulting                            │
 │                                                             │
 │   REACH OUT:                                                │
-│   📧  your-email@example.com                                │
+│   📧  pradip12345.pv@gmail.com                               │
 │   🐙  github.com/Pradipdan                                  │
 │   📍  Ahmedabad, India (Remote/Hybrid/Onsite)               │
 │                                                             │
@@ -230,7 +230,7 @@ TYPE: Dynamic Form Engine
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradip12345.pv@gmail.com)
 [![GitHub Follow](https://img.shields.io/github/followers/Pradipdan?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/Pradipdan)
 
 ---
