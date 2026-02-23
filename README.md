@@ -203,7 +203,7 @@ TYPE: Dynamic Form Engine
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipdan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9)](https://github.com/Pradipdan)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pradipdan&theme=dark&hide_border=true&background=0d1117&ring=FF6B35&fire=FF2D20&currStreakLabel=FF6B35)](https://github.com/Pradipdan)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradipdan&theme=dark&hide_border=true&background=0d1117&ring=FF6B35&fire=FF2D20&currStreakLabel=FF6B35)](https://github.com/Pradipdan)
 
 </div>
 
