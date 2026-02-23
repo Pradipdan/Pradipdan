@@ -1,42 +1,69 @@
-# Pradipdan Kunchala
+# Backend Engineer — Laravel Specialist
 
-Senior Laravel Backend Developer  
-Ahmedabad, India  
+I build systems.
 
----
-
-## Profile
-
-Experienced backend engineer specializing in Laravel-based enterprise systems.
-
-Strong experience in:
-
-- RBAC implementation
-- Payment gateway integrations
-- REST API development
-- Admin panel architecture
-- Structured service-repository design
-- Secure and scalable backend systems
+Not websites.
 
 ---
 
-## Technologies
+## What I Engineer
 
-Laravel | PHP | MySQL | Stripe | PayPal | Square  
-Blade | Bootstrap | jQuery | DataTables  
-Git | Linux | Postman  
-
----
-
-## Work Focus
-
-- Clean architecture
-- Secure implementation
-- Performance-first backend design
-- Maintainable production systems
+- Multi-role enterprise systems
+- Payment processing architectures
+- Secure REST APIs
+- High-control admin dashboards
+- Webhook-driven integrations
+- Queue-based processing pipelines
 
 ---
 
-## GitHub
+## Architecture Mindset
 
-Consistently building structured Laravel systems and scalable backend modules.
+Controller → Service → Repository → Database  
+
+Strict validation  
+Policy-driven authorization  
+Encrypted routes  
+Queue workers  
+Scheduled automation  
+
+No spaghetti. No shortcuts.
+
+---
+
+## Core Stack
+
+- Laravel 10 / 11
+- PHP 8+
+- MySQL
+- Stripe / PayPal / Square
+- Spatie Permissions
+- AJAX-driven interfaces
+
+---
+
+## Systems Built
+
+Parking Management System  
+Multi-Gateway Checkout Engine  
+Dynamic Form Builder (Panel-based architecture)  
+Role-Segmented User Management  
+
+---
+
+## Engineering Principles
+
+Security first  
+Performance always  
+Scalable by design  
+Readable code over clever code  
+
+---
+
+## GitHub Metrics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Pradipdan&show_icons=true)
+
+---
+
+Open to building backend systems that need structure, scale, and precision.
