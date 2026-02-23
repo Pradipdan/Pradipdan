@@ -1,60 +1,42 @@
-<h1 align="center">Pradipdan Kunchala</h1>
+# Pradipdan Kunchala
 
-<p align="center">
-Senior Laravel Backend Engineer  
-System Architecture | Payments | RBAC | Scalable Systems
-</p>
+Senior Laravel Backend Developer  
+Ahmedabad, India  
 
 ---
 
-## Core Expertise
+## Profile
 
-✔ Enterprise Laravel Applications  
-✔ Role-Based Access Control (Spatie)  
-✔ Multi-Gateway Payment Systems  
-✔ RESTful API Architecture  
-✔ Secure Admin Panels  
-✔ Webhook & Queue Processing  
+Experienced backend engineer specializing in Laravel-based enterprise systems.
 
----
+Strong experience in:
 
-## Tech Stack
-
-<p align="center">
-<img src="https://img.shields.io/badge/Laravel-11-red?style=for-the-badge&logo=laravel" />
-<img src="https://img.shields.io/badge/PHP-8-blue?style=for-the-badge&logo=php" />
-<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Stripe-Payments-purple?style=for-the-badge&logo=stripe" />
-<img src="https://img.shields.io/badge/PayPal-Integration-blue?style=for-the-badge&logo=paypal" />
-</p>
+- RBAC implementation
+- Payment gateway integrations
+- REST API development
+- Admin panel architecture
+- Structured service-repository design
+- Secure and scalable backend systems
 
 ---
 
-## Engineering Principles
+## Technologies
 
-- Separation of concerns
-- Clean code structure
-- Performance optimization
-- Secure authentication & authorization
-- Maintainable modular systems
+Laravel | PHP | MySQL | Stripe | PayPal | Square  
+Blade | Bootstrap | jQuery | DataTables  
+Git | Linux | Postman  
 
 ---
 
-## GitHub Analytics
+## Work Focus
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pradipdan&show_icons=true&theme=radical" />
-</p>
-
----
-
-## Currently Focused On
-
-- Scaling Laravel applications
-- Advanced payment workflows
-- Backend system optimization
-- AI-integrated dashboards
+- Clean architecture
+- Secure implementation
+- Performance-first backend design
+- Maintainable production systems
 
 ---
 
-Available for senior backend roles and complex Laravel systems.
+## GitHub
+
+Consistently building structured Laravel systems and scalable backend modules.
