@@ -1,53 +1,105 @@
-# Backend Engineer — Laravel Specialist
+# Backend Engineer — Pradipdan Kunchala
 
-I build systems.
-
-Not websites.
-
----
-
-## What I Engineer
-
-- Multi-role enterprise systems
-- Payment processing architectures
-- Secure REST APIs
-- High-control admin dashboards
-- Webhook-driven integrations
-- Queue-based processing pipelines
+Senior Laravel Developer  
+Backend Architect | System Design Focused  
+Ahmedabad, India  
 
 ---
 
-## Architecture Mindset
+## I Build Systems — Not Just Applications
 
-Controller → Service → Repository → Database  
+I engineer structured, scalable backend systems using Laravel and modern PHP standards.
 
-Strict validation  
-Policy-driven authorization  
-Encrypted routes  
-Queue workers  
-Scheduled automation  
+My work is centered around:
 
-No spaghetti. No shortcuts.
+- Enterprise-grade multi-role architectures
+- Secure and scalable REST APIs
+- Payment processing infrastructures
+- Complex dynamic form engines
+- RBAC implementation with Spatie
+- Admin systems with strict permission control
+- Service + Repository structured architecture
+
+I care about structure, performance, and long-term maintainability.
 
 ---
 
-## Core Stack
+## Core Engineering Stack
 
-- Laravel 10 / 11
+### Backend
 - PHP 8+
+- Laravel 10 / 11
 - MySQL
-- Stripe / PayPal / Square
-- Spatie Permissions
-- AJAX-driven interfaces
+- RESTful API Design
+- Spatie Roles & Permissions
+
+### Payment Architecture
+- Stripe
+- PayPal
+- Square
+- Webhook verification & event handling
+- Secure transaction workflows
+
+### Frontend Interface Layer
+- Blade
+- Bootstrap 5
+- jQuery
+- DataTables
+- Select2
+- AJAX-driven systems
+
+### Dev Environment
+- Git
+- GitHub
+- Linux
+- Postman
+- NVM
+- Composer
 
 ---
 
-## Systems Built
+## Architecture Philosophy
 
-Parking Management System  
-Multi-Gateway Checkout Engine  
-Dynamic Form Builder (Panel-based architecture)  
-Role-Segmented User Management  
+Controller  
+→ Service Layer  
+→ Repository Layer  
+→ Database  
+
+Strict validation using Form Requests  
+Policy-driven authorization  
+Encrypted route identifiers  
+Queue workers for heavy processing  
+Scheduled automation  
+Webhook-based event systems  
+
+No tightly coupled logic.  
+No business logic inside controllers.  
+No shortcuts.
+
+---
+
+## Systems Engineered
+
+### Parking Management System
+- Multi-role access (Admin, Client, Site User)
+- Slot availability engine
+- Dynamic country/state/city loader
+- Secure CRUD with granular permissions
+- Location-based data handling
+
+### Multi-Gateway Checkout Engine
+- Runtime payment gateway switching
+- Stripe / PayPal / Square integration
+- Order generation & lifecycle tracking
+- PDF invoice generation
+- Email notifications
+- Webhook validation & status reconciliation
+
+### Dynamic Multi-Step Form Framework
+- Panel-based dynamic section rendering
+- Conditional validation logic
+- Structured file upload handling
+- Modular data persistence layer
 
 ---
 
@@ -56,14 +108,21 @@ Role-Segmented User Management
 Security first  
 Performance always  
 Scalable by design  
-Readable code over clever code  
+Readable > clever  
+Structure over shortcuts  
 
 ---
 
 ## GitHub Metrics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pradipdan&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradipdan&show_icons=true)
 
 ---
 
-Open to building backend systems that need structure, scale, and precision.
+## Open To
+
+Senior Backend Roles  
+System Architecture Projects  
+Long-term Backend Consulting  
+
+Email: your-email@example.com
