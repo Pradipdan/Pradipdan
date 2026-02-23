@@ -1,116 +1,60 @@
-# Pradipdan Kunchala
+<h1 align="center">Pradipdan Kunchala</h1>
 
-Senior Laravel Developer | Backend Architect | System Design Focused  
-Ahmedabad, India  
+<p align="center">
+Senior Laravel Backend Engineer  
+System Architecture | Payments | RBAC | Scalable Systems
+</p>
 
 ---
 
-## About Me
+## Core Expertise
 
-I design and build scalable backend systems using Laravel and modern PHP standards.
+✔ Enterprise Laravel Applications  
+✔ Role-Based Access Control (Spatie)  
+✔ Multi-Gateway Payment Systems  
+✔ RESTful API Architecture  
+✔ Secure Admin Panels  
+✔ Webhook & Queue Processing  
 
-My expertise includes:
-- Multi-role user management systems
-- Payment gateway integrations (Stripe, PayPal, Square)
-- Secure REST APIs
-- Complex multi-step form systems
-- RBAC using Spatie
-- DataTables-based admin panels
-- Repository + Service architecture
+---
 
-I focus on:
-- Clean architecture
+## Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Laravel-11-red?style=for-the-badge&logo=laravel" />
+<img src="https://img.shields.io/badge/PHP-8-blue?style=for-the-badge&logo=php" />
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Stripe-Payments-purple?style=for-the-badge&logo=stripe" />
+<img src="https://img.shields.io/badge/PayPal-Integration-blue?style=for-the-badge&logo=paypal" />
+</p>
+
+---
+
+## Engineering Principles
+
+- Separation of concerns
+- Clean code structure
 - Performance optimization
-- Security best practices
-- Maintainable codebases
+- Secure authentication & authorization
+- Maintainable modular systems
 
 ---
 
-## Technical Stack
+## GitHub Analytics
 
-Backend:
-- PHP 8+
-- Laravel 10 / 11
-- MySQL
-- REST API Development
-- Spatie Roles & Permissions
-
-Payments:
-- Stripe
-- PayPal
-- Square
-
-Frontend:
-- Blade
-- Bootstrap 5
-- jQuery
-- DataTables
-- Select2
-- AJAX
-
-DevOps & Tools:
-- Git
-- GitHub
-- Postman
-- Linux
-- NVM
-- Composer
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pradipdan&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-## Architecture Approach
+## Currently Focused On
 
-I follow structured backend patterns:
-
-Controller  
-→ Service Layer  
-→ Repository Layer  
-→ Database  
-
-With:
-- Form Requests for validation
-- Policy-based authorization
-- Scheduled tasks
-- Queue jobs
-- Webhook handling
-- Encrypted route IDs
+- Scaling Laravel applications
+- Advanced payment workflows
+- Backend system optimization
+- AI-integrated dashboards
 
 ---
 
-## Featured Work
-
-### Parking Management System
-- Role-based system (Admin, Client, Site User)
-- Dynamic location dropdowns
-- Slot availability logic
-- Secure CRUD with permissions
-
-### Multi-Gateway Checkout System
-- Dynamic payment switching
-- Order generation
-- PDF invoice
-- Email notifications
-- Webhook verification
-
-### Multi-Step Dynamic Form Engine
-- Panel-based dynamic sections
-- File uploads
-- Conditional validation
-- Structured DB storage
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradipdan&show_icons=true&theme=default)
-
----
-
-## Contact
-
-Open to:
-- Senior Backend Roles
-- System Architecture Projects
-- Long-term Backend Consulting
-
-Email: your-email@example.com
+Available for senior backend roles and complex Laravel systems.
